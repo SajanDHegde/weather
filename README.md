@@ -14,5 +14,8 @@ Once its done , send the request and get the output.To check the accuracy of the
 
 <img width="960" alt="Screenshot 2023-11-28 221047" src="https://github.com/SajanDHegde/weather/assets/150254430/0be8f006-dead-4408-8f74-b15ad4579258">
 
+<img width="960" alt="Screenshot 2023-11-28 221126" src="https://github.com/SajanDHegde/weather/assets/150254430/a4d1c774-94d6-42fc-8e7a-a21663c99650">
 
 
+## Additionals
+The code includes the ability to retrieve weather information for multiple locations through the /weather endpoint , and even the code has try-except blocks to catch and handle exceptions which may occur during the API requests.
