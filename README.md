@@ -10,3 +10,4 @@ For example (city=Mysore).
 Once its done , send the request and get the output.To check the accuracy of the Output which contains the weather data by OpenWeatherMap.
 
 ## Screenshots
+<img width="960" alt="Screenshot 2023-11-28 221143" src="https://github.com/SajanDHegde/weather/assets/150254430/e86873c0-23ea-4bba-8a7e-55fd44dbfc87">
