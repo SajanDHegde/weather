@@ -8,3 +8,5 @@ Run the application , once the code is compiled , open the Postman and create a 
 Add a query parameter 'city' with the value being the city.
 For example (city=Mysore).
 Once its done , send the request and get the output.To check the accuracy of the Output which contains the weather data by OpenWeatherMap.
+
+## Screenshots
