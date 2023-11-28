@@ -11,3 +11,6 @@ Once its done , send the request and get the output.To check the accuracy of the
 
 ## Screenshots
 <img width="960" alt="Screenshot 2023-11-28 221143" src="https://github.com/SajanDHegde/weather/assets/150254430/e86873c0-23ea-4bba-8a7e-55fd44dbfc87">
+
+<img width="960" alt="Screenshot 2023-11-28 221047" src="https://github.com/SajanDHegde/weather/assets/150254430/0be8f006-dead-4408-8f74-b15ad4579258">
+
